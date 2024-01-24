@@ -1,0 +1,31 @@
+caracteristicas semelhantes
+
+nome
+idade
+sexo
+peso
+altura
+nacionalidade
+
+__________
+
+Tipos primitivos
+
+Númerico: 
+  inteiro: TinyInt, SmallInt, Int, MediumInt, BigInt
+  real: decimal, float, double, real
+  lógico: bit, boolean
+
+
+Data/tempo: data, dateTime, TimeStamp, Time, Year
+	
+
+Literal: 
+  caractere: char, varchar
+  texto: TinyText, Text, MediumText, LongText
+  binário: TinyBlob, Blob, MediumBlob, LongBlob 
+  coleção: enum, set
+
+
+Espacial: Geometry, Point, Polygon, MultiPlygon
+
