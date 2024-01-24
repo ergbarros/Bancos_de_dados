@@ -1,7 +1,7 @@
 caracteristicas semelhantes
 
 nome
-idade
+data de nascimento
 sexo
 peso
 altura
