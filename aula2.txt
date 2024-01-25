@@ -1,0 +1,28 @@
+Bancos de dados não relacionais
+MongoDB
+
+Preparação do ambiente de desenvolvimento:
+- CLOUD (AWS)
+  Atlas:
+  https://www.mongodb.com/pt-br/atlas
+
+______________________________________________________________
+Introdução ao MongoDB
+
+- Para criar um banco de dados é obrigatório criar uma
+  coleção( equivalente a tabela do banco relacional )
+- Para excluir um banco de dados basta excluir as coleções
+
+Comandos básicos (terminal)
+db.help()              //ajuda dos comandos
+<Ctrl><L>              //limpar a tela do terminal
+show dbs               //exibir bancos de dados
+use nomeBanco          //seleciona o banco se existir e cria um novo banco se não existir (após a criação da coleção)
+show collections       //exibe as coleções do banco
+db.nomeColecao.drop()  //excluir a coleção
+db.nomeColecao.insertOne({objeto1:"valor",objeto2:valor}) // inserir dados
+db.nomeColecao.find() // listar todos os dados
+db.nomeColecao.findOne({lanche:"Big Mac"}) // filtrar(consulta)
+  
+
+

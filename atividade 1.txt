@@ -1,0 +1,14 @@
+Material de apoio da UC:
+HTML5 e CSS3
+https://github.com/professorjosedeassis/html5css3
+
+Atividade 1:
+
+Escolher um tema para o desenvolvimento de um projeto de um site:
+
+- Definir objetivos conforme imagem em anexo
+- Responder duas perguntas:
+  Objetivos do site
+  Necessidades do visitante
+- Não podem haver ou mais temas idênticos
+- Tema de robótica (professor)
